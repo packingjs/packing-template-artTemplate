@@ -1,0 +1,30 @@
+{
+  "name": "packing-template-artTemplate",
+  "version": "1.0.1",
+  "description": "artTemplate  middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongzhi107/packing-template-artTemplate.git"
+  },
+  "keywords": [
+    "artTemplate",
+    "template",
+    "express",
+    "middleware"
+  ],
+  "author": "zhongzhi <zhong.zhi@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongzhi107/packing-template-artTemplate/issues"
+  },
+  "homepage": "https://github.com/zhongzhi107/packing-template-artTemplate#readme",
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "clear-require": "^1.0.1",
+    "object-assign": "^4.1.0"
+  }
+}
