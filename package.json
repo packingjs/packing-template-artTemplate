@@ -1,6 +1,6 @@
 {
   "name": "packing-template-artTemplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "artTemplate  middleware for express",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   "dependencies": {
     "art-template": "^3.0.3",
     "clear-require": "^1.0.1",
-    "object-assign": "^4.1.0"
+    "object-assign-deep": "0.0.4"
   }
 }
