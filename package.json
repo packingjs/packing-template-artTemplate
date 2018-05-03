@@ -1,6 +1,6 @@
 {
   "name": "packing-template-artTemplate",
-  "version": "1.1.2",
+  "version": "2.0.3",
   "description": "artTemplate  middleware for express",
   "main": "dist/index.js",
   "scripts": {
